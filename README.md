@@ -31,9 +31,9 @@
 
 用户数据写入本机 Electron 用户数据目录，不在源码中。为兼容原有数据和系统权限，本版本保留原应用标识与 `Dynamic Panel` 数据目录。
 
-原项目：[xiaopu-ai/TO-DO-Panel](https://github.com/xiaopu-ai/TO-DO-Panel)，基于 v1.2.0 定制。原版权和 [MIT 许可证](LICENSE) 保留；第三方组件的来源和许可证见各自 `vendor/` 目录。灵屿名称、外观及 QQ 音乐定制由 Freya Qian 整理维护。
+原项目：[xiaopu-ai/TO-DO-Panel](https://github.com/xiaopu-ai/TO-DO-Panel)，基于 v1.2.0 定制。原版权和 [MIT 许可证](LICENSE) 保留。灵屿名称、外观及 QQ 音乐定制由 Freya Qian 整理维护。
 
-[更新记录](CHANGELOG.md) · [已确认的设计偏好](docs/music-player-design-preferences.md) · [返回项目主页](https://github.com/Freya-Qian#-项目)
+[返回项目主页](https://github.com/Freya-Qian#-项目)
 
 ## 设计思路
 
