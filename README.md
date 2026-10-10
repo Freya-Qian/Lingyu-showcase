@@ -6,7 +6,7 @@
 
 灵屿是基于 [TO-DO Panel](https://github.com/xiaopu-ai/TO-DO-Panel) 定制的本地桌面工作台。本仓库为 Freya Qian 的项目展示页，源码不公开。
 
-**当前归档版本：1.2.2**。已在本机 macOS Apple Silicon 使用；Windows 的基础代码沿用原项目，本次 QQ 音乐与外观定制未做 Windows 安装包验收。
+**当前归档版本：1.2.2**。已在本机 macOS Apple Silicon 使用。
 
 ## 交互演示
 
